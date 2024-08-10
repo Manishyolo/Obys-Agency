@@ -1,4 +1,4 @@
 # Obys-Agency
-hello ther brother this my frist 
+hello there all this my frist 
 gsap + locomotive + scrolltrigger 
 passion project
